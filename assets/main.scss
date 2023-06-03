@@ -1,0 +1,45 @@
+@import "minima"; /* Ensure Minima's styles are still included */
+
+.site-header {
+    background-color: #3b5998 !important; /* Warm blue */
+    padding: 15px 0;
+}
+
+.site-title, .site-nav a {
+    color: #ffffff !important; /* White text */
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
+
+.menu-icon {
+    color: #ffffff !important;
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.footer-links {
+  margin-left: auto; /* Push icons to the right */
+}
+
+.footer-links a {
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.footer-links img {
+  width: 30px;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+.footer-links img:hover {
+  transform: scale(1.2);
+}
