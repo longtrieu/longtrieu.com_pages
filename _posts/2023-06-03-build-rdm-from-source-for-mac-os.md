@@ -12,8 +12,8 @@ If you try to build RDM from Source Code for Mac OS X and could not make it work
 ### 1. Install Git
 ### 2. Get source code from Terminal
 ```
-$ mkdir RDM $ git clone --recursive <br />
-https://github.com/uglide/RedisDesktopManager.git -b 0.9 rdm<br />
+$ mkdir RDM $ git clone --recursive
+https://github.com/uglide/RedisDesktopManager.git -b 0.9 rdm
 cd ./rdm
 ```
 
@@ -26,19 +26,19 @@ $ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 ### 5. Install [Homebrew](https://brew.sh/) from Terminal
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL
-https://raw.githubusercontent.com/Homebrew/install/master/install)" <br />
+https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ brew doctor
 ```
 
 ### 6. Navigate to source code folder and make Info config file
 ```
-$ cd src/resources <br />
+$ cd src/resources
 cp Info.plist.sample Info.plist
 ```
 
 ### 7. Build RDM dependencies
 ```
-$ cd src/resources <br />
+$ cd src/resources
 ./configure
 ```
 
