@@ -1,6 +1,8 @@
 ---
 title: "Android Battery Information from File system"
 date: 2013-04-08
+author: Long Trieu
+description: We can make the world better
 ---
 
 # Android Better information from File System
@@ -18,6 +20,7 @@ POWER_SUPPLY_STATUS=Charging POWER_SUPPLY_HEALTH=Good
 POWER_SUPPLY_PRESENT=1 POWER_SUPPLY_TECHNOLOGY=Li-ion
 POWER_SUPPLY_CAPACITY=93
 ```
+
 ### 2. batt_vol:
 Contains the information about the current voltage of the battery: for example, 417
 
