@@ -1,6 +1,6 @@
 ---
 title: "Build RDM from Source for Mac OS X"
-date: 2023-06-03
+date: 2018-06-19
 author: Long Trieu
 description: We can make the world better
 ---
