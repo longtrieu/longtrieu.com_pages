@@ -3,6 +3,7 @@ title: "Detect uniqueIdentifier in your Xcode project to avoid App Rejection"
 date: 2014-01-14
 author: Long Trieu
 description: We can make the world better
+permalink: /detect-unique-identifier-in-your-xcode-project-to-avoid-app-rejection
 ---
 
 ### Detect uniqueIdentifier in your Xcode project to avoid App Rejection
@@ -11,13 +12,13 @@ As you know, `uniqueIdentifier` is deprecated and now Apple will reject all apps
 
 One very simple answer is to navigate into your project folder on `Terminal` and gracefully type this:
 
-```
+``` bash
 grep -Rnis 'uniqueIdentifier' *
 ```
 
 It will show you frameworks/libraries that are using the `uniqueIdentifier`, just like this:
 
-```
+``` bash
 Binary file Revmob/RevMobAds.framework/RevMobAds matches
 Binary fileRevmob/RevMobAds.framework/Versions/A/RevMobAds matches
 Binary file Revmob/RevMobAds.framework/Versions/Current/RevMobAds matches

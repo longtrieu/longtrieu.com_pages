@@ -3,6 +3,7 @@ title: "Android Battery Information from File system"
 date: 2013-04-08
 author: Long Trieu
 description: We can make the world better
+permalink: /android-battery-information-from-file-system
 ---
 
 # Android Better information from File System
@@ -14,7 +15,7 @@ In Linux, applications collect the battery status through sysfs, where the batte
 ### 1. uevent:
 Contains some information including: name, type, status, health, present, technology, capacity, for example:
 
-```
+``` bash
 POWER_SUPPLY_NAME=battery POWER_SUPPLY_TYPE=Battery
 POWER_SUPPLY_STATUS=Charging POWER_SUPPLY_HEALTH=Good
 POWER_SUPPLY_PRESENT=1 POWER_SUPPLY_TECHNOLOGY=Li-ion

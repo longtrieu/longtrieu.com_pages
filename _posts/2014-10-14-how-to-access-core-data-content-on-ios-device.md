@@ -3,6 +3,7 @@ title: "How to access Core Data content on iOS device"
 date: 2014-10-14
 author: Long Trieu
 description: We can make the world better
+permalink: /how-to-access-core-data-content-on-ios-device
 ---
 
 ### How to access Core Data content on iOS device
@@ -13,7 +14,7 @@ You can either use Cocoapods or Manually Installation to set up your Pony Debugg
 
 Then, in order to track your Core Data content, you can add these code into your iOS Client:
 
-```
+``` objective-c
 PDDebugger *debugger = [PDDebugger defaultInstance];
 [debugger enableCoreDataDebugging];
 [debugger addManagedObjectContext:/*Your managed object context to track*/
@@ -24,7 +25,7 @@ URLWithString:@"ws://localhost:9000/device"]];
 
 Please follow the Quick Start to install the Pony Debugger Gateway for tracking with these commands on your Terminal:
 
-```
+``` bash
 curl -sk
 https://cloud.github.com/downloads/square/PonyDebugger/bootstrap-ponyd.py
 |
