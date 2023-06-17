@@ -14,9 +14,17 @@ Former VP of Technology of Tappy, focusing on connecting people and providing th
 
 Founder and CTO of a small studio located in Ho Chi Minh City.
 
-Specialties: Mobile Technology, Integration, Software Development, Decentralized Partner Networks, Social Community, Networking, Art.
+
+#### **Specialties**:
+
+Mobile Technology, Integration, Software Development, Decentralized Partner Networks, Social Community, Networking, Art.
+
+#### **Certificates**:
 
 ![Google Project Management](/docs/assets/google-project-management-certificate.png)
+
+
+#### **Skills**:
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -29,3 +37,9 @@ Specialties: Mobile Technology, Integration, Software Development, Decentralized
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### **Hobbies**:
+
+Tenshin Shōden Katori Shintō-ryū (天真正伝香取神道流)
+
+![Katori Shintō-ryū](/docs/assets/katori-shinto-ryu.png)
