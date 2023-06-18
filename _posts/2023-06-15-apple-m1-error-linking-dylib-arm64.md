@@ -10,7 +10,7 @@ permalink: /apple-m1-error-linking-dylib-arm64
 
 If you face this problem while trying to run Xcode project on the iOS Simulator, please try the solution below:
 
-### 1. Exclude `arm4` from Architectures:
+### 1. Exclude `arm4` from Architectures
 
 ![Exclude Architectures](/docs/assets/exclude-architecture.png)
 
@@ -31,7 +31,7 @@ end
 - Then run this to update your Pods
 
 ``` bash
-pod install
+$ pod install
 ```
 
 ### (Optional) 3. Define your libraries as `Optional`

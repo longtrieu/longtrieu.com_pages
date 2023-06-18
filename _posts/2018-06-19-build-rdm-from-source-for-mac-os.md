@@ -54,6 +54,8 @@ $ cd src/resources
 
 ### 9. Open `/resource/rdm.pro` in Qt Creator
 
-### 10. Run build If you face any problem, please feel free to share and we can work together to solve it.
+### 10. Run build
+
+If you face any problem, please feel free to share and we can work together to solve it.
 
 Thanks

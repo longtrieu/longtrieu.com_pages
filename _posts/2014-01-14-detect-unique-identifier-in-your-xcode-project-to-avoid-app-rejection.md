@@ -13,7 +13,7 @@ As you know, `uniqueIdentifier` is deprecated and now Apple will reject all apps
 One very simple answer is to navigate into your project folder on `Terminal` and gracefully type this:
 
 ``` bash
-grep -Rnis 'uniqueIdentifier' *
+$ grep -Rnis 'uniqueIdentifier' *
 ```
 
 It will show you frameworks/libraries that are using the `uniqueIdentifier`, just like this:

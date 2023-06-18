@@ -26,7 +26,7 @@ URLWithString:@"ws://localhost:9000/device"]];
 Please follow the Quick Start to install the Pony Debugger Gateway for tracking with these commands on your Terminal:
 
 ``` bash
-curl -sk
+$ curl -sk
 https://cloud.github.com/downloads/square/PonyDebugger/bootstrap-ponyd.py
 |
 python - --ponyd-symlink=/usr/local/bin/ponyd ~/Library/PonyDebugger
