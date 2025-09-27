@@ -1,20 +1,14 @@
 ---
 layout: page
-permalink: /first_anniversary
+permalink: /dont_forget_me
 ---
 
 <div class="page-container">
-  <div class="beautiful-header">
-    <h1 class="beautiful-title"><span class="title-icon">💕</span> Our First Anniversary</h1>
-    <p class="beautiful-subtitle">Celebrating one year of love, laughter, and beautiful memories</p>
-  </div>
-
   <div class="beautiful-card">
     <div class="audio-section">
-      <h3>🎵 Our Song of a Life Together</h3>
       <div class="audio-player">
         <audio controls>
-          <source src="{{ site.url }}/assets/audio/MotDoi.mp3" type="audio/mpeg">
+          <source src="{{ site.url }}/assets/audio/DontForgetMe.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
       </div>
@@ -26,23 +20,40 @@ permalink: /first_anniversary
       <div class="letter-content">
         <hr class="letter-divider">
         <p class="letter-paragraph">
-          💌 Dear my Gorgeous Phoenix
+          🎵 Dear my Gorgeous Phoenix 💕
         </p>
 
         <p class="letter-paragraph">
-          Time flies so fast, it's hard to believe that it's already been more than a year of us being together.
-          Every moment spent with you has been a gift, a memory to cherish, and a foundation for the life we're building together.
+          Lately I've been thinkin' about you<br/>
+          Crazy how the time goes passin' by<br/>
+          Can I confess these words to you?<br/>
+          I feel our time is comin' soon<br/>
+          With what is left, I sing for you
         </p>
 
         <p class="letter-paragraph">
-          A life with you is not just a journey, it's a beautiful story of love, growth, and endless possibilities.
-          Through every joy and every challenge, I feel grateful for all the time we've shared, for every laugh,
-          every embrace, and every dream we've nurtured side by side.
+          Oh did you look above?<br/>
+          Heaven knows I’m dreamin’ of the one I love<br/>
+          Oh you know I cant get enough<br/>
+          I just wanna be the one who calls you baby
         </p>
 
         <p class="letter-paragraph">
-          Thank you for being my love, my partner, and my greatest blessing.
-          Here's to us, to our love, and to many more years of happiness together.
+          Trace me so I find my way to you<br/>
+          No one knows I need you like you do<br/>
+          Cannot confess these words to you<br/>
+          I fear a time is coming soon<br/>
+          This love thats left belongs to you<br/>
+          So when the stars are fading<br/>
+          Nothing on Earth can keep me waiting from-<br/>
+          Searchin' for you in all that I do
+        </p>
+
+        <p class="letter-paragraph">
+          Oh did you look above?<br/>
+          Heaven knows I’m dreamin’ of the one I love<br/>
+          Oh you know I cant get enough<br/>
+          I just wanna be the one who calls you baby
         </p>
 
         <div class="love-signature">
