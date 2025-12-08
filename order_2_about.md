@@ -76,7 +76,7 @@ p {
 
 #### **Certificates**:
 
-[![Google AI Essentials](/docs/assets/google-ai-essentials-v1.png)](https://www.coursera.org/account/accomplishments/professional-cert/8M3F6KBIJHG9) [![Google Project Management](/docs/assets/google-project-management-certificate.png)](https://www.coursera.org/account/accomplishments/professional-cert/HDJJKBXEVBD8)
+[![Google AI Essentials](/docs/assets/google-ai-essentials-v1.png)](https://www.coursera.org/account/accomplishments/professional-cert/8M3F6KBIJHG9) [![Google Project Management](/docs/assets/google-project-management-certificate.png)](https://www.coursera.org/account/accomplishments/professional-cert/HDJJKBXEVBD8)  [![Google Project Management](/docs/assets/gemini-certified-educator.png)](https://edu.google.accredible.com/90988a7d-a306-4ba1-84b6-14d5fab05169#acc.LVPCXoFn)
 
 
 #### **Skills**:
