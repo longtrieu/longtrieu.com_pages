@@ -6,6 +6,24 @@ permalink: /photography
 <div class="photo-grid">
   <div class="photo-grid-container">
     <div class="photo-item">
+      <img src="/assets/images/2026.02.11_1.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
+      <img src="/assets/images/2026.02.11_2.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
+      <img src="/assets/images/2026.02.11_3.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
+      <img src="/assets/images/2026.02.11_4.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
+      <img src="/assets/images/2026.02.11_5.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
+      <img src="/assets/images/2026.02.11_6.jpg" alt="Photo from February 11, 2026">
+    </div>
+    <div class="photo-item">
       <img src="/assets/images/2025.06.14_3.jpg" alt="Photo from June 14, 2025">
     </div>
     <div class="photo-item">
